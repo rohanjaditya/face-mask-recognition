@@ -1,6 +1,6 @@
 # face-mask-recognition
 
-This project was submitted as part of the coursework for CS677 - Data Science with Python during the Fall 2021 semester at Boston University.
+## CS677 Data Science with Python Term Project - Fall 2021 (Boston University)
 
 The objective of this project is to classify faces into one of three categories:
 1. Wearing a mask
